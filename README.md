@@ -1,0 +1,2 @@
+# codealpha_task2
+DATA SCIENCE TASK 2 :- DATA EXPLORATION
